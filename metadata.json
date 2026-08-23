@@ -1,0 +1,6 @@
+{
+  "name": "Termux:Server",
+  "description": "Termux:Server Android addon & web terminal bridge to run full Termux access at http://phoneip:8080/ with GitHub repo, APK builder and F-Droid package files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
